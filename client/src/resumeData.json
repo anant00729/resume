@@ -1,0 +1,165 @@
+{
+  "name": "Arnav Sunilam Awasthi",
+  "designation": "Full-Stack Developer and Freelancer",
+  "about": "I have been working with PWA/Web development since 2018, the period during which I have worked in different projects. I am a self-motivated and self-taught professional who likes to solve problems. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL.",
+  "email": "arnavawasthy60@gmail.com",
+  "phone": "+91 8779367836",
+  "linkedin": "linkedin.com/in/arnav-awasthy-a39148159/",
+  "address": "D-44, Acharya Niwas, New Navy Nagar, Mumbai 400005",
+  "profile_image": "https://i.imgur.com/Il4saXn.png",
+  "work_experience": [
+    {
+      "title": "Movistar",
+      "duration": "June 2021 - July 2021",
+      "tasks": [
+        "This application is the implementation of RESTful API with NodeJS used on the backend and ReactJS library used on the Frontend. The PostgreSQL database is used to store the user details and user reviews for a particular movie.",
+        "The application is built to facilitate users to add, view, and update the review of newly released movies. The TMDB API is used to fetch all the recently released movies.",
+        "The Frontend of the application is built on ReactJS. And, The website has the feature to login and register as a user with form validation on Frontend. After login, the user can browse the movie list on the home page.",
+        "On selecting a movie from the home page, the user is redirected to the movie details page where he/she can view the details of the movie and a list of movie reviews added by the other users."
+      ],
+      "project_link": "http://movie-star-60.herokuapp.com/"
+    },
+    {
+      "title": "TT Real estate",
+      "duration": "December 2020 - January 2021",
+      "tasks": [
+        "This is a very practical project where the client can take a list of requirements from a fictional company to build a real estate application using Django.",
+        "The project includes the implementation of the basics HTML/CSS Bootstrap 4 theme and turns it into a real working application with an admin area to manage resources including property listings, realtors, and contact inquiries.",
+        "The project is build using Django that can be (and has been) used to the website — from content management systems and wikis, through to social networks and news sites. It can work with any client-side framework, and can deliver content in almost any format (including HTML, RSS feeds, JSON, XML, etc)"
+      ],
+      "project_link": "http://ttrealestate.herokuapp.com/"
+    },
+    {
+      "title": "Hi-story",
+      "duration": "08/2018 - Present",
+      "tasks": [
+        "The application is with React, Node.js, Express and PostgreSQL. The aim of this application is to allow students to post thier blogs related to a perticual topic in social science",
+        "The students can log in through the application and create blogs on any topic. Once, the blog is submitted, it is then sent to the teacher for its review. The teacher can accept and reject the draft submitted by the student. Once the draft gets accepted, it will be published on the website."
+      ],
+      "project_link": "https://hi-story-beta.herokuapp.com/"
+    },
+    {
+      "title": "Space-X 360",
+      "duration": "08/2018 - Present",
+      "tasks": [
+        "Single page application built with ReactJS. It is used to demonstrate the implementation of the admin panel. Showcasing the space-x launches statistics using Space-X open-source RESTful APIs.",
+        "Space-X data (from Space-X APIs) is used to show bar graph and US map using D3.js library."
+      ],
+      "project_link": "https://space-x-360.herokuapp.com/"
+    },
+    {
+      "title": "CSS to StyledJS Plugin",
+      "duration": "08/2018 - Present",
+      "tasks": [
+        "A utility app to interpret CSS file and convert it into styled-components. The frontend stack is ReactJS."
+      ],
+      "project_link": "https://css-to-styled.herokuapp.com/"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Something nice",
+      "description": "publishing and graphic design"
+    },
+    {
+      "title": "Something nice",
+      "description": "publishing and graphic design"
+    },
+    {
+      "title": "Something nice",
+      "description": "publishing and graphic design"
+    }
+  ],
+  "education": [
+    {
+      "education_from": "Kendriya Vidyalaya No. 2 Colaba",
+      "education_in": [
+        {
+          "class_title": "10th CBSE",
+          "duration": "April 2015 - March 2016",
+          "result": "10 CGPA equivalent to 93.4%"
+        },
+        {
+          "class_title": "12th CBSE",
+          "duration": "April 2017 - March 2018",
+          "result": "88%"
+        }
+      ]
+    },
+    {
+      "education_from": "Xavier Institute of Engineering",
+      "education_in": [
+        {
+          "class_title": "Bachelor of engineering in Information Technology",
+          "duration": "July 2018 - Present/June 2022",
+          "result": "7.3 GPA"
+        }
+      ]
+    }
+  ],
+  "areas_of_expertise": [
+    "ReactJS",
+    "Redux",
+    "Javascript",
+    "ES6",
+    "HTML5/CSS",
+    "Bootstrap",
+    "Tailwind",
+    "Styled Components",
+    "NodeJS",
+    "ExpressJS",
+    "MySQL",
+    "Postgres",
+    "MongoDB",
+    "Git",
+    "Postman",
+    "pgAdmin",
+    "RESTful API"
+  ],
+  "languages": [
+    {
+      "title": "Hindi",
+      "state": "Mother tongue"
+    },
+    {
+      "title": "English",
+      "state": "Fluent"
+    },
+    {
+      "title": "Russian",
+      "state": "Beginner"
+    }
+  ],
+  "skills": [
+    {
+      "title": "ReactJS",
+      "years": "2.5 years",
+      "rating": [1, 1, 1, 1, 0]
+    },
+    {
+      "title": "HTML5/CSS",
+      "years": "3 years",
+      "rating": [1, 1, 1, 1, 0]
+    },
+    {
+      "title": "NodeJS",
+      "years": "3 years",
+      "rating": [1, 1, 1, 0, 0]
+    },
+    {
+      "title": "AWS",
+      "years": "2 years",
+      "rating": [1, 1, 0, 0, 0]
+    },
+    {
+      "title": "Django",
+      "years": "1 year",
+      "rating": [1, 1, 1, 0, 0]
+    },
+    {
+      "title": "Git",
+      "years": "1 year",
+      "rating": [1, 1, 1, 1, 0]
+    }
+  ]
+}
