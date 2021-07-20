@@ -10,7 +10,7 @@
   "work_experience": [
     {
       "title": "Movistar",
-      "duration": "June 2021 - July 2021",
+      "duration": "April 2021 - July 2021",
       "tasks": [
         "This application is the implementation of RESTful API with NodeJS used on the backend and ReactJS library used on the Frontend. The PostgreSQL database is used to store the user details and user reviews for a particular movie.",
         "The application is built to facilitate users to add, view, and update the review of newly released movies. The TMDB API is used to fetch all the recently released movies.",
@@ -21,7 +21,7 @@
     },
     {
       "title": "TT Real estate",
-      "duration": "December 2020 - January 2021",
+      "duration": "November 2020 - January 2021",
       "tasks": [
         "This is a very practical project where the client can take a list of requirements from a fictional company to build a real estate application using Django.",
         "The project includes the implementation of the basics HTML/CSS Bootstrap 4 theme and turns it into a real working application with an admin area to manage resources including property listings, realtors, and contact inquiries.",
@@ -31,7 +31,7 @@
     },
     {
       "title": "Hi-story",
-      "duration": "08/2018 - Present",
+      "duration": "August 2020 - October 2021",
       "tasks": [
         "The application is with React, Node.js, Express and PostgreSQL. The aim of this application is to allow students to post thier blogs related to a perticual topic in social science",
         "The students can log in through the application and create blogs on any topic. Once, the blog is submitted, it is then sent to the teacher for its review. The teacher can accept and reject the draft submitted by the student. Once the draft gets accepted, it will be published on the website."
@@ -40,7 +40,7 @@
     },
     {
       "title": "Space-X 360",
-      "duration": "08/2018 - Present",
+      "duration": "April 2021 - Present",
       "tasks": [
         "Single page application built with ReactJS. It is used to demonstrate the implementation of the admin panel. Showcasing the space-x launches statistics using Space-X open-source RESTful APIs.",
         "Space-X data (from Space-X APIs) is used to show bar graph and US map using D3.js library."
@@ -49,7 +49,7 @@
     },
     {
       "title": "CSS to StyledJS Plugin",
-      "duration": "08/2018 - Present",
+      "duration": "January 2021 - February 2021",
       "tasks": [
         "A utility app to interpret CSS file and convert it into styled-components. The frontend stack is ReactJS."
       ],
