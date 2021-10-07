@@ -1,0 +1,310 @@
+{
+  "primary_color": "#4f90ca",
+  "secondary_color": "#6a6f85#",
+  "name": "Anant Sunilam Awasthy",
+  "designation": "Professional Masters of Science in Computer Science Student - Big Data",
+  "about": "I have been working with PWA/Web development since 2018, the period during which I have worked in different projects. I am a self-motivated and self-taught professional who likes to solve problems. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL.",
+  "aboutList": [
+    "5+ years of experience in Software development & Data Analytics",
+    "Strong programming background with project experience in Machine Learning, Data Mining, Front-end and Back-end development.",
+    "Experience utilizing analytical tools and techniques for data analysis and processing big data."
+  ],
+  "email": "anant_awasthy@sfu.ca",
+  "phone": "+1 604-657-6012",
+  "linkedin": "https://www.linkedin.com/in/anant-s-awasthy-230119134",
+  "githubLink": "https://github.com/anant00729",
+  "address": "D-44, Acharya Niwas, New Navy Nagar, Mumbai 400005",
+  "profile_image": "https://i.imgur.com/Il4saXn.png",
+  "work_experience": [
+    {
+      "title": "Movistar",
+      "duration": "April 2021 - July 2021",
+      "tasks": [
+        "This application is the implementation of RESTful API with NodeJS used on the backend and ReactJS library used on the Frontend. The PostgreSQL database is used to store the user details and user reviews for a particular movie.",
+        "The application is built to facilitate users to add, view, and update the review of newly released movies. The TMDB API is used to fetch all the recently released movies.",
+        "The Frontend of the application is built on ReactJS. And, The website has the feature to login and register as a user with form validation on Frontend. After login, the user can browse the movie list on the home page.",
+        "On selecting a movie from the home page, the user is redirected to the movie details page where he/she can view the details of the movie and a list of movie reviews added by the other users."
+      ],
+      "project_link": "http://movie-star-60.herokuapp.com/"
+    },
+    {
+      "title": "TT Real estate",
+      "duration": "November 2020 - January 2021",
+      "tasks": [
+        "This is a very practical project where the client can take a list of requirements from a fictional company to build a real estate application using Django.",
+        "The project includes the implementation of the basics HTML/CSS Bootstrap 4 theme and turns it into a real working application with an admin area to manage resources including property listings, realtors, and contact inquiries.",
+        "The project is build using Django that can be (and has been) used to the website — from content management systems and wikis, through to social networks and news sites. It can work with any client-side framework, and can deliver content in almost any format (including HTML, RSS feeds, JSON, XML, etc)"
+      ],
+      "project_link": "http://ttrealestate.herokuapp.com/"
+    },
+    {
+      "title": "Hi-story",
+      "duration": "August 2020 - October 2021",
+      "tasks": [
+        "The application is with React, Node.js, Express and PostgreSQL. The aim of this application is to allow students to post thier blogs related to a perticual topic in social science",
+        "The students can log in through the application and create blogs on any topic. Once, the blog is submitted, it is then sent to the teacher for its review. The teacher can accept and reject the draft submitted by the student. Once the draft gets accepted, it will be published on the website."
+      ],
+      "project_link": "https://hi-story-beta.herokuapp.com/"
+    },
+    {
+      "title": "Space-X 360",
+      "duration": "April 2021 - Present",
+      "tasks": [
+        "Single page application built with ReactJS. It is used to demonstrate the implementation of the admin panel. Showcasing the space-x launches statistics using Space-X open-source RESTful APIs.",
+        "Space-X data (from Space-X APIs) is used to show bar graph and US map using D3.js library."
+      ],
+      "project_link": "https://space-x-360.herokuapp.com/"
+    },
+    {
+      "title": "CSS to StyledJS Plugin",
+      "duration": "January 2021 - February 2021",
+      "tasks": [
+        "A utility app to interpret CSS file and convert it into styled-components. The frontend stack is ReactJS."
+      ],
+      "project_link": "https://css-to-styled.herokuapp.com/"
+    }
+  ],
+  "education": [
+    {
+      "education_from": "Embassy Of India School",
+      "education_in": [
+        {
+          "class_title": "10th CBSE",
+          "duration": "April 2009 - March 2010",
+          "result": "78.94%"
+        }
+      ]
+    },
+    {
+      "education_from": "Kendriya Vidyalaya No. 1, Colaba",
+      "education_in": [
+        {
+          "class_title": "12th CBSE",
+          "duration": "April 2011 - March 2012",
+          "result": "73.56%"
+        }
+      ]
+    },
+    {
+      "education_from": "Mahatma Gandhi Mission's College of Engineering and Technology",
+      "education_in": [
+        {
+          "class_title": "Bachelor of engineering in Computer Science",
+          "duration": "July 2012 - June 2016",
+          "result": "7.84 GPA"
+        }
+      ]
+    }
+  ],
+  "technical_skills": [
+    {
+      "name": "Programming/ Scripting Languages",
+      "type": [
+        "Python",
+        "Java",
+        "Kotlin",
+        "Swift",
+        "Dart",
+        "C",
+        "C++",
+        "Javascript",
+        "HTML5/CSS",
+        "SQL",
+        "Matlab"
+      ]
+    },
+    {
+      "name": "Framworks and Tools",
+      "type": [
+        "Android",
+        "iOS",
+        "Flutter",
+        "ReactJS",
+        "NodeJS",
+        "MySQL",
+        "PySpark",
+        "Cassandra"
+      ]
+    },
+    {
+      "name": "Libraries/ Technologies",
+      "type": [
+        "scikit-learn",
+        "Pandas",
+        "NumPy",
+        "SciPy",
+        "Plotly",
+        "Keras",
+        "PyTorch",
+        "Apache Spark",
+        "Hadoop",
+        "MapReduce",
+        "Kafka",
+        "YARM",
+        "AWS S#",
+        "AWS EC2",
+        "AWS EMR"
+      ]
+    }
+  ],
+  "areas_of_expertise": [
+    "ReactJS",
+    "Redux",
+    "Javascript",
+    "ES6",
+    "HTML5/CSS",
+    "Bootstrap",
+    "Tailwind",
+    "Styled Components",
+    "NodeJS",
+    "ExpressJS",
+    "MySQL",
+    "Postgres",
+    "MongoDB",
+    "Git",
+    "Postman",
+    "pgAdmin",
+    "RESTful APIs"
+  ],
+  "selected_projects": [
+    {
+      "title": "Space-X 360",
+      "duration": "April 2021 - Present",
+      "stack_used": "Python, Pytorch, Keras",
+      "tasks": [
+        "Single page application built with ReactJS. It is used to demonstrate the implementation of the admin panel. Showcasing the space-x launches statistics using Space-X open-source RESTful APIs.",
+        "Space-X data (from Space-X APIs) is used to show bar graph and US map using D3.js library."
+      ],
+      "project_link": "https://space-x-360.herokuapp.com/"
+    },
+    {
+      "title": "Space-X 360",
+      "duration": "April 2021 - Present",
+      "stack_used": "Python, Pytorch, Keras",
+      "tasks": [
+        "Single page application built with ReactJS. It is used to demonstrate the implementation of the admin panel. Showcasing the space-x launches statistics using Space-X open-source RESTful APIs.",
+        "Space-X data (from Space-X APIs) is used to show bar graph and US map using D3.js library."
+      ],
+      "project_link": "https://space-x-360.herokuapp.com/"
+    }
+  ],
+  "technical_exp": [
+    {
+      "title": "Tata Digital",
+      "designation": "Full-stack developer",
+      "duration": "December 2019 - August 2021",
+      "intro": "As the first developer to integrate the team in the IHCL project, my goal was to create interfaces for our new product utilizing Android framework + MVVM achitecture for state management. The main focus is to create reusable components that could be used in future projects by the team.",
+      "roles": [
+        "Use my extensive experience with front-end development to define the structure and components for the project, making sure they are reusable.",
+        "Keep the code quality high reviewing code from other developers and suggesting improvements.",
+        "Interact with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality."
+      ]
+    },
+    {
+      "title": "Binary Numbers",
+      "designation": "Front-end lead",
+      "duration": "August 2017 - November 2019",
+      "intro": "Binary Numbers is a service-based company specialized in product engineering, web and app development a company offering next-generation solutions for small and large businesses. I worked there on custom websites and apps that increase online visibility and stand out from the crowd.",
+      "roles": [
+        "Android/Flutter application development.",
+        "Designeasyuser interfaces and great user experiences for the digital platforms of small companies.",
+        "React web application development, including UI creation and customization, custom component development, and training.",
+        "E-commerce development with NodeJS, customizing preexisting codebase.",
+        "Integrate external services such as payment services, delivery, etc into NodeJS solutions.",
+        "Lead a team of 4 mobile developers, giving support to the clientʼsmulti-cultural team, providing feedback, clarifying requirements, and helping with technical questions.",
+        "Product development using NodeJS (ExpressJS and Next.JS), integration with AWS and external financial tools."
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Professional Master of Science in Computer Science, Big Data",
+      "duration": "September-2021 - Present",
+      "name_of_uni": "Simon Fraser University, Burnaby, Canada",
+      "courses": "Courses (ongoing): Machine Learning, Big Data, Data Mining"
+    },
+    {
+      "title": "Bachlors of Computer Science",
+      "duration": "September-2012 - 2016",
+      "name_of_uni": "University of Mumbai, India",
+      "courses": "Software Engineering, Programming, Machine Learning, Databases"
+    }
+  ],
+  "hackathon": [
+    {
+      "title": "Binary Numbers",
+      "designation": "Front-end lead",
+      "duration": "August 2017 - November 2019",
+      "intro": "Binary Numbers is a service-based company specialized in product engineering, web and app development a company offering next-generation solutions for small and large businesses. I worked there on custom websites and apps that increase online visibility and stand out from the crowd.",
+      "roles": [
+        "Android/Flutter application development.",
+        "Designeasyuser interfaces and great user experiences for the digital platforms of small companies.",
+        "React web application development, including UI creation and customization, custom component development, and training.",
+        "E-commerce development with NodeJS, customizing preexisting codebase.",
+        "Integrate external services such as payment services, delivery, etc into NodeJS solutions.",
+        "Lead a team of 4 mobile developers, giving support to the clientʼsmulti-cultural team, providing feedback, clarifying requirements, and helping with technical questions.",
+        "Product development using NodeJS (ExpressJS and Next.JS), integration with AWS and external financial tools."
+      ]
+    }
+  ],
+  "certificates_and_acc": [
+    {
+      "name": "Python for Data Science and Machine Learning Bootcamp",
+      "duration": "2020"
+    },
+    {
+      "name": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+      "duration": "2018"
+    },
+    {
+      "name": "Monster India, Android Certified Programmer",
+      "duration": "2016"
+    }
+  ],
+  "languages": [
+    {
+      "title": "Hindi",
+      "state": "Mother tongue"
+    },
+    {
+      "title": "English",
+      "state": "Fluent"
+    },
+    {
+      "title": "Russian",
+      "state": "Beginner"
+    }
+  ],
+  "skills": [
+    {
+      "title": "ReactJS",
+      "years": "2.5 years",
+      "rating": [1, 1, 1, 1, 0]
+    },
+    {
+      "title": "HTML5/CSS",
+      "years": "3 years",
+      "rating": [1, 1, 1, 1, 0]
+    },
+    {
+      "title": "NodeJS",
+      "years": "3 years",
+      "rating": [1, 1, 1, 0, 0]
+    },
+    {
+      "title": "AWS",
+      "years": "2 years",
+      "rating": [1, 1, 0, 0, 0]
+    },
+    {
+      "title": "Django",
+      "years": "1 year",
+      "rating": [1, 1, 1, 0, 0]
+    },
+    {
+      "title": "Git",
+      "years": "1 year",
+      "rating": [1, 1, 1, 1, 0]
+    }
+  ]
+}
