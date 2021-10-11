@@ -5,7 +5,7 @@
   "designation": "Professional Masters of Science in Computer Science Student - Big Data",
   "about": "I have been working with PWA/Web development since 2018, the period during which I have worked in different projects. I am a self-motivated and self-taught professional who likes to solve problems. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL.",
   "aboutList": [
-    "5+ years of experience in Software development & Data Analytics",
+    "5+ years of experience in Software development & Data Analytics.",
     "Strong programming background with project experience in Front-end and Back-end development.",
     "Learing Machine Learning and data science.",
     "Experience in developing analytical tools and techniques for data analysis and processing big data."
@@ -121,7 +121,7 @@
   "selected_projects": [
     {
       "title": "Tata motors",
-      "duration": "November 2020 - January 2021",
+      "duration": "December 2020 - August 2021",
       "stack_used": "React, Redux, React Hooks and 3D Model Unity Libraries",
       "tasks": [
         "Collaborated with the augmented reality team and helped online customers in their purchasing decisions by bringing vehicles to life, taking digital imagery to the next level with realistic, life-sized 3D models that can be positioned in the real world and explored in detail.",
@@ -132,7 +132,7 @@
     },
     {
       "title": "Qmin",
-      "duration": "April 2021 - July 2021",
+      "duration": "November 2019 - December 2020",
       "stack_used": "Android, Kotlin, Dagger, Component Life Cycle and MVVM pattern",
       "tasks": [
         "Owned end to end food order flow and developed using latest architecture, design patterns and most importantly write secure and performant code by working closely with the product, UX/UI and backend teams.",
@@ -145,7 +145,7 @@
     },
     {
       "title": "Empire Cinemas",
-      "duration": "April 2021 - Present",
+      "duration": "April 2018 - September 2019",
       "stack_used": "Flutter, Provider Pattern, NodeJS and Postgres",
       "tasks": [
         "Developed backend logic in NodeJs to implement syncing of cinema schedules and movies.",
@@ -184,18 +184,18 @@
       "duration": "August 2017 - November 2019",
       "intro": "Binary Numbers is a service-based company specialized in product engineering, web and app development a company offering next-generation solutions for small and large businesses. I worked there on custom websites and apps that increase online visibility and stand out from the crowd.",
       "roles": [
-        "Handled Different Cinema Projects which has a faster, cleaner, and a tad more personal Ticket booking process, specially designed to make your booking experience better.",
-        "Designed easy to use interfaces and enhancement of user experience for the digital platforms of small companies.",
-        "Worked on React, Flutter and Android applications, that included UI creation and customization, custom component development, and training.",
-        "Developed E-commerce platform with NodeJS, customizing preexisting codebase.",
-        "Integrated external services such as payment services, delivery, etc into NodeJS solutions.",
-        "Leaded a team of 4 mobile developers, gave support to the clientʼs multi-cultural team, providing feedback, clarifying requirements, and helping with technical questions."
+        "Handled Different Cinema Projects which has a faster, cleaner, and a tad more personal Ticket booking process, specially designed to make the booking experience better.",
+        "Designed easy-to-use interfaces and enhancement of user experience for the digital platforms of small companies.",
+        "Worked on React + Redux libraries, Flutter and Android frameworks, that included UI creation and customization, custom component development, and training.",
+        "Developed E-commerce platform with NodeJS, and customized preexisting codebase.",
+        "Integrated external services such as payment services, delivery services, etc into NodeJS solutions.",
+        "Led a team of 4 mobile developers, gave support to the clientʼs multi-cultural team, providing feedback, clarifying requirements, and helping with technical questions."
       ]
     },
     {
       "title": "EMEfocus Software Solutions",
       "designation": "Android and NodeJS Developer",
-      "duration": "August 2017 - November 2019",
+      "duration": "November 2016 - August 2017",
       "intro": "Emefocus is a service-based start-located in Bangalore. They focus on digitalizing the admission process of various universities. I worked as an android developer and also got a chance to work on the backend. My job here is to work inside our client to develop great digital solutions for the education sector ande-commerce.",
       "roles": [
         "Developed web/android applications based on Android Native and React frontend frameworks.",
@@ -215,7 +215,7 @@
       "title": "Bachlors of Computer Science",
       "duration": "September-2012 - 2016",
       "name_of_uni": "University of Mumbai, India",
-      "courses": "Software Engineering, Programming, Data structures and algorithms, Database management system."
+      "courses": "Software Engineering, Programming, Data structures and algorithms, Database management system"
     }
   ],
   "hackathon": [
@@ -237,15 +237,15 @@
   ],
   "certificates_and_acc": [
     {
-      "name": "Python for Data Science and Machine Learning Bootcamp",
+      "title": "Python for Data Science and Machine Learning Bootcamp, Udemy",
       "duration": "2020"
     },
     {
-      "name": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+      "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js, Udemy",
       "duration": "2018"
     },
     {
-      "name": "Monster India, Android Certified Programmer",
+      "title": "Android Certified Programmer, Monster India",
       "duration": "2016"
     }
   ],

@@ -34,7 +34,13 @@ function Education() {
                   >
                     {title}
                   </div>
-                  <div>{duration}</div>
+                  <div
+                    style={{
+                      fontWeight: "600",
+                    }}
+                  >
+                    {duration}
+                  </div>
                 </div>
                 <div
                   style={{

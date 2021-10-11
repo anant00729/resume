@@ -12,7 +12,7 @@ function PersonalInformation() {
           return (
             <li
               style={{
-                marginTop: "4px",
+                marginTop: "6px",
               }}
               key={index}
             >

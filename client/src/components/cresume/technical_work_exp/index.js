@@ -35,14 +35,20 @@ function TechnicalWorkExperience() {
                   }}
                 >
                   <div>{designation}</div>
-                  <div>{duration}</div>
+                  <div
+                    style={{
+                      fontWeight: "600",
+                    }}
+                  >
+                    {duration}
+                  </div>
                 </div>
                 <ul>
                   {roles.map((r, j) => {
                     return (
                       <li
                         style={{
-                          marginTop: "4px",
+                          marginTop: "6px",
                         }}
                         key={j}
                       >
