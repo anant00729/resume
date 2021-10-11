@@ -4,11 +4,7 @@ import resumeData from "../../../cresumeData.json";
 function ProfessionalSummary() {
   const { phone = "", email = "", linkedin = "", githubLink = "" } = resumeData;
   return (
-    <section
-      style={{
-        marginLeft: "52px",
-      }}
-    >
+    <section>
       <div
         style={{
           display: "flex",
@@ -31,9 +27,9 @@ function ProfessionalSummary() {
               marginBottom: "4px",
             }}
           >
-            <label>{phone}</label>
+            <a href={`tel:${phone}`}>{phone}</a>
           </div>
-          <label>{email}</label>
+          <a href={`mailto:${email}`}>{email}</a>
         </div>
         <div
           style={{
@@ -47,9 +43,9 @@ function ProfessionalSummary() {
               marginBottom: "4px",
             }}
           >
-            <label>{linkedin}</label>
+            <a href={linkedin}>{linkedin}</a>
           </div>
-          <label>{githubLink}</label>
+          <a href={githubLink}>{githubLink}</a>
         </div>
       </div>
     </section>

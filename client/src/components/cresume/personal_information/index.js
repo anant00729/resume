@@ -7,11 +7,20 @@ function PersonalInformation() {
 
   return (
     <section>
-      <div>
+      <ul>
         {aboutList.map((about, index) => {
-          return <div key={index}>{about} </div>;
+          return (
+            <li
+              style={{
+                marginTop: "4px",
+              }}
+              key={index}
+            >
+              {about}{" "}
+            </li>
+          );
         })}
-      </div>
+      </ul>
     </section>
   );
 }

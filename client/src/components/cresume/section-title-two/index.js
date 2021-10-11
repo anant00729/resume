@@ -6,6 +6,7 @@ function SectionTitleTwo({ colorBox, children, name }) {
       style={{
         display: "grid",
         gridTemplateColumns: "40px 1fr",
+        margin: "16px 0",
       }}
     >
       <div
@@ -21,13 +22,14 @@ function SectionTitleTwo({ colorBox, children, name }) {
       >
         <label
           style={{
-            fontSize: "20px",
+            fontSize: "24px",
             fontWeight: "600",
             display: "flex",
             alignItems: "center",
+            color: colorBox,
           }}
         >
-          {name}
+          {name.toUpperCase()}
         </label>
         <div
           style={{

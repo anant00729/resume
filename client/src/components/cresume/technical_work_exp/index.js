@@ -19,25 +19,38 @@ function TechnicalWorkExperience() {
           ) => {
             return (
               <div key={index}>
-                <h3>{title}</h3>
-                <p
+                <div
+                  style={{
+                    fontSize: "20px",
+                    fontWeight: "600",
+                  }}
+                >
+                  {title}
+                </div>
+                <div
                   style={{
                     display: "flex",
                     justifyContent: "space-between",
+                    marginTop: "6px",
                   }}
                 >
                   <div>{designation}</div>
                   <div>{duration}</div>
-                </p>
-                <div>
+                </div>
+                <ul>
                   {roles.map((r, j) => {
                     return (
-                      <div key={j}>
+                      <li
+                        style={{
+                          marginTop: "4px",
+                        }}
+                        key={j}
+                      >
                         <div>{r}</div>
-                      </div>
+                      </li>
                     );
                   })}
-                </div>
+                </ul>
                 <div>{project_link}</div>
               </div>
             );

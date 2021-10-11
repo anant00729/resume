@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Libraries/ Technologies",
+      "name": "Libraries/ Technologies (Currently learning)",
       "type": [
         "scikit-learn",
         "Pandas",
@@ -122,6 +122,7 @@
     {
       "title": "Tata motors",
       "duration": "November 2020 - January 2021",
+      "stack_used": "React, Redux, React Hooks and 3D Model Unity Libraries",
       "tasks": [
         "Collaborated with the augmented reality team and helped online customers in their purchasing decisions by bringing vehicles to life, taking digital imagery to the next level with realistic, life-sized 3D models that can be positioned in the real world and explored in detail.",
         "Developed frontend chatbot that workes with RESTful APIs and provides useful insights and solves enquiries related to car purchase.",
@@ -132,6 +133,7 @@
     {
       "title": "Qmin",
       "duration": "April 2021 - July 2021",
+      "stack_used": "Android, Kotlin, Dagger, Component Life Cycle and MVVM pattern",
       "tasks": [
         "Owned end to end food order flow and developed using latest architecture, design patterns and most importantly write secure and performant code by working closely with the product, UX/UI and backend teams.",
         "Built reusable libraries, toolkits and developer tools for usage across multiple mobile teams on Qmin.",
@@ -144,6 +146,7 @@
     {
       "title": "Empire Cinemas",
       "duration": "April 2021 - Present",
+      "stack_used": "Flutter, Provider Pattern, NodeJS and Postgres",
       "tasks": [
         "Developed backend logic in NodeJs to implement syncing of cinema schedules and movies.",
         "Worked on customer-facing application to build reusable components and scalable app for users using Flutter framework.",
@@ -155,6 +158,7 @@
     {
       "title": "CSS to StyledJS Plugin",
       "duration": "January 2021 - February 2021",
+      "stack_used": "React, React Hooks and Context API",
       "tasks": [
         "A utility app to interpret CSS file and convert it into styled-components."
       ],
@@ -176,7 +180,7 @@
     },
     {
       "title": "Binary Numbers",
-      "designation": "Front-end lead",
+      "designation": "Front-end Lead",
       "duration": "August 2017 - November 2019",
       "intro": "Binary Numbers is a service-based company specialized in product engineering, web and app development a company offering next-generation solutions for small and large businesses. I worked there on custom websites and apps that increase online visibility and stand out from the crowd.",
       "roles": [
@@ -190,7 +194,7 @@
     },
     {
       "title": "EMEfocus Software Solutions",
-      "designation": "Front-end lead",
+      "designation": "Android and NodeJS Developer",
       "duration": "August 2017 - November 2019",
       "intro": "Emefocus is a service-based start-located in Bangalore. They focus on digitalizing the admission process of various universities. I worked as an android developer and also got a chance to work on the backend. My job here is to work inside our client to develop great digital solutions for the education sector ande-commerce.",
       "roles": [

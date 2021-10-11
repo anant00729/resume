@@ -17,7 +17,7 @@ function CResume() {
         <div
           style={{
             fontSize: "32px",
-            margin: "24px auto 0 auto",
+            margin: "0px auto 0 auto",
             textAlign: "center",
             fontWeight: "600",
           }}

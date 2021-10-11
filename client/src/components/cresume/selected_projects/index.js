@@ -20,26 +20,47 @@ function SelectedProjects() {
           ) => {
             return (
               <div key={index}>
-                <h3>{title}</h3>
-                <h4>{project_link}</h4>
-                <p
+                <div
+                  style={{
+                    fontSize: "20px",
+                    fontWeight: "600",
+                  }}
+                >
+                  {title}
+                </div>
+                <div
+                  style={{
+                    fontSize: "16px",
+                    fontWeight: "600",
+                    marginTop: "6px",
+                  }}
+                >
+                  <a href={project_link}>{project_link}</a>
+                </div>
+                <div
                   style={{
                     display: "flex",
                     justifyContent: "space-between",
+                    marginTop: "6px",
                   }}
                 >
                   <div>{stack_used}</div>
                   <div>{duration}</div>
-                </p>
-                <div>
+                </div>
+                <ul>
                   {tasks.map((t, j) => {
                     return (
-                      <div key={j}>
+                      <li
+                        style={{
+                          marginTop: "4px",
+                        }}
+                        key={j}
+                      >
                         <div>{t}</div>
-                      </div>
+                      </li>
                     );
                   })}
-                </div>
+                </ul>
               </div>
             );
           }
