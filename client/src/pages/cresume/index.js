@@ -7,6 +7,7 @@ import TechnicalSkills from "../../components/cresume/technical_skills";
 import SelectedProjects from "../../components/cresume/selected_projects";
 import TechnicalWorkExperience from "../../components/cresume/technical_work_exp";
 import SectionTitleTwo from "../../components/cresume/section-title-two";
+import Education from "../../components/cresume/c_edu";
 
 function CResume() {
   const { name = "", designation = "", primary_color } = resumeData;
@@ -60,6 +61,11 @@ function CResume() {
           colorBox={primary_color}
           children={<TechnicalWorkExperience />}
           name={"Technical Work Experience"}
+        />
+        <SectionTitleTwo
+          colorBox={primary_color}
+          children={<Education />}
+          name={"Education"}
         />
       </MainContainer>
     </page>
