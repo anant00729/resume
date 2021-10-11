@@ -9,7 +9,7 @@
   "profile_image": "https://i.imgur.com/Il4saXn.png",
   "work_experience": [
     {
-      "title": "Movistar",
+      "title": "Qmin",
       "duration": "April 2021 - July 2021",
       "tasks": [
         "This application is the implementation of RESTful API with NodeJS used on the backend and ReactJS library used on the Frontend. The PostgreSQL database is used to store the user details and user reviews for a particular movie.",
@@ -20,40 +20,32 @@
       "project_link": "http://movie-star-60.herokuapp.com/"
     },
     {
-      "title": "TT Real estate",
+      "title": "Tata motors",
       "duration": "November 2020 - January 2021",
       "tasks": [
         "This is a very practical project where the client can take a list of requirements from a fictional company to build a real estate application using Django.",
         "The project includes the implementation of the basics HTML/CSS Bootstrap 4 theme and turns it into a real working application with an admin area to manage resources including property listings, realtors, and contact inquiries.",
         "The project is build using Django that can be (and has been) used to the website — from content management systems and wikis, through to social networks and news sites. It can work with any client-side framework, and can deliver content in almost any format (including HTML, RSS feeds, JSON, XML, etc)"
       ],
-      "project_link": "http://ttrealestate.herokuapp.com/"
+      "project_link": "https://imaginator.tatamotors.com/nexon/"
     },
     {
-      "title": "Hi-story",
+      "title": "Air Asia",
       "duration": "August 2020 - October 2021",
       "tasks": [
         "The application is with React, Node.js, Express and PostgreSQL. The aim of this application is to allow students to post thier blogs related to a perticual topic in social science",
         "The students can log in through the application and create blogs on any topic. Once, the blog is submitted, it is then sent to the teacher for its review. The teacher can accept and reject the draft submitted by the student. Once the draft gets accepted, it will be published on the website."
       ],
-      "project_link": "https://hi-story-beta.herokuapp.com/"
+      "project_link": "https://www.airasia.com/en/gb"
     },
     {
-      "title": "Space-X 360",
+      "title": "Empire Cinemas",
       "duration": "April 2021 - Present",
       "tasks": [
         "Single page application built with ReactJS. It is used to demonstrate the implementation of the admin panel. Showcasing the space-x launches statistics using Space-X open-source RESTful APIs.",
         "Space-X data (from Space-X APIs) is used to show bar graph and US map using D3.js library."
       ],
-      "project_link": "https://space-x-360.herokuapp.com/"
-    },
-    {
-      "title": "CSS to StyledJS Plugin",
-      "duration": "January 2021 - February 2021",
-      "tasks": [
-        "A utility app to interpret CSS file and convert it into styled-components. The frontend stack is ReactJS."
-      ],
-      "project_link": "https://css-to-styled.herokuapp.com/"
+      "project_link": "https://ksa.empirecinemas.com/"
     }
   ],
   "certificates": [
