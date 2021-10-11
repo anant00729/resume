@@ -1,20 +1,11 @@
 import React from "react";
 import resumeData from "../../../cresumeData.json";
-import SectionTitle from "../section_title";
 
 function TechnicalWorkExperience() {
   const { technical_exp = [], primary_color = "" } = resumeData;
   return (
     <section>
-      <SectionTitle
-        name={"Technical Work Experience"}
-        colorBox={primary_color}
-      />
-      <div
-        style={{
-          marginLeft: "52px",
-        }}
-      >
+      <div>
         {technical_exp.map(
           (
             {

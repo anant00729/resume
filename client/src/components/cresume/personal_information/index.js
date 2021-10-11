@@ -7,13 +7,7 @@ function PersonalInformation() {
 
   return (
     <section>
-      <SectionTitle name={"Professional Summary"} colorBox={primary_color} />
-      <div
-        style={{
-          marginLeft: "52px",
-          color: "green",
-        }}
-      >
+      <div>
         {aboutList.map((about, index) => {
           return <div key={index}>{about} </div>;
         })}

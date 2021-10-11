@@ -1,18 +1,12 @@
 import React from "react";
 import resumeData from "../../../cresumeData.json";
-import SectionTitle from "../section_title";
 
 function SelectedProjects() {
-  const { selected_projects = [], primary_color = "" } = resumeData;
+  const { selected_projects = [] } = resumeData;
 
   return (
     <section>
-      <SectionTitle name={"Selected Projects"} colorBox={primary_color} />
-      <div
-        style={{
-          marginLeft: "52px",
-        }}
-      >
+      <div>
         {selected_projects.map(
           (
             {

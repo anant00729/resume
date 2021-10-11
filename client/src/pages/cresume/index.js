@@ -6,9 +6,10 @@ import PersonalInformation from "../../components/cresume/personal_information";
 import TechnicalSkills from "../../components/cresume/technical_skills";
 import SelectedProjects from "../../components/cresume/selected_projects";
 import TechnicalWorkExperience from "../../components/cresume/technical_work_exp";
+import SectionTitleTwo from "../../components/cresume/section-title-two";
 
 function CResume() {
-  const { name = "", designation = "" } = resumeData;
+  const { name = "", designation = "", primary_color } = resumeData;
 
   return (
     <page size="A4">
@@ -34,10 +35,32 @@ function CResume() {
           {designation}
         </div>
         <ProfessionalSummary />
-        <PersonalInformation />
-        <TechnicalSkills />
-        <SelectedProjects />
-        <TechnicalWorkExperience />
+        <div
+          style={{
+            borderTop: `3px solid ${primary_color}`,
+            marginTop: "16px",
+          }}
+        ></div>
+        <SectionTitleTwo
+          colorBox={primary_color}
+          children={<PersonalInformation />}
+          name={"Professional Summary"}
+        />
+        <SectionTitleTwo
+          colorBox={primary_color}
+          children={<TechnicalSkills />}
+          name={"Technical Skills"}
+        />
+        <SectionTitleTwo
+          colorBox={primary_color}
+          children={<SelectedProjects />}
+          name={"Selected Projects"}
+        />
+        <SectionTitleTwo
+          colorBox={primary_color}
+          children={<TechnicalWorkExperience />}
+          name={"Technical Work Experience"}
+        />
       </MainContainer>
     </page>
   );
