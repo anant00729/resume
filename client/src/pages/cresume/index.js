@@ -13,6 +13,8 @@ import Certificates from "../../components/cresume/c_acc";
 function CResume() {
   const { name = "", designation = "", primary_color } = resumeData;
 
+  
+
   return (
     <page size="A4">
       <MainContainer>
