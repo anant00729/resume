@@ -135,7 +135,7 @@
     },
     {
       "title": "Sentiment Analysis for Brand Reputation Management",
-      "duration": "June 2022 - August 2022",
+      "duration": "January 2023 - March 2023",
       "stack_used": "Python, Selenium, BERT, Flask, LSTM",
       "tasks": [
       "Implemented data extraction and cleaning processes using Selenium and APIs to gather data from online sources for analysis.",
