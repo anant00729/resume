@@ -159,7 +159,7 @@
       "project_link": "https://youtu.be/ATgNBqYl3tc"
     },
     {
-      "title": "Forest Fire Risk Prediction & Analyses",
+      "title": "Forest Fire Risk Prediction & Analysis",
       "duration": "September 2021 - December 2021",
       "stack_used": "PySpark, AWS S3, AWS Redshift, AWS PostgreSQL (RDS), NodeJs, Plotly Dash and Apache Cassandra.",
       "tasks": [
