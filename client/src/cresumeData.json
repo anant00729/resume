@@ -3,12 +3,12 @@
   "secondary_color": "#6a6f85#",
   "name": "Anant Sunilam Awasthy",
   "designation": "MS CS (Big Data) at SFU '23",
-  "about": "I have been working with PWA/Web development since 2018, the period during which I have worked in different projects. I am a self-motivated and self-taught professional who likes to solve problems. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL.",
+  "about": "I have been working with PWA/Web development since 2018, the period during which I have worked in different projects. I am a self-motivated and self-taught professional who likes to solve problems. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL",
   "aboutList": [
-    "5+ years of experience in Software development & Data Analytics.",
-    "Strong programming background with project experience in Front-end and Back-end development.",
-    "Learning data science and machine learning.",
-    "Experience in developing analytical tools and techniques for data analysis and processing big data."
+    "5+ years of experience in Software development & Data Analytics",
+    "Strong programming background with project experience in Front-end and Back-end development",
+    "Learning data science and machine learning",
+    "Experience in developing analytical tools and techniques for data analysis and processing big data"
   ],
   "email": "anant_awasthy@sfu.ca",
   "phone": "+1 604-657-6012",
@@ -124,50 +124,50 @@
       "duration": "January 2023 - March 2023",
       "stack_used": "C++, cmake, Docker",
       "tasks": [
-      "Implemented AES and RSA encryption techniques to secure data in an encrypted file system.",
-      "Developed a middleware in C++ to enable access to the encrypted file system on a need-to-access basis.",
-      "Collaborated with team members to ensure that all functional requirements were met, including support for multiple users with personalized and shared directories, file and directory operations (e.g., cd, pwd, ls, cat, share, mkdir, mkfile), and admin-specific features (e.g., adduser).",
-      "Collaborated with team members to identify and fix software bugs and vulnerabilities.",
-      "Conducted thorough testing and debugging to identify and fix vulnerabilities and issues in the encrypted file system, ensuring that users' data and privacy were protected.",
-      "Documented the project's design, implementation, and testing procedures in detail, making it easy for others to understand and build upon the work."
+      "Implemented AES and RSA encryption techniques to secure data in an encrypted file system",
+      "Developed a middleware in C++ to enable access to the encrypted file system on a need-to-access basis",
+      "Collaborated with team members to ensure that all functional requirements were met, including support for multiple users with personalized and shared directories, file and directory operations (e.g., cd, pwd, ls, cat, share, mkdir, mkfile), and admin-specific features (e.g., adduser)",
+      "Collaborated with team members to identify and fix software bugs and vulnerabilities",
+      "Conducted thorough testing and debugging to identify and fix vulnerabilities and issues in the encrypted file system, ensuring that users' data and privacy were protected",
+      "Documented the project's design, implementation, and testing procedures in detail, making it easy for others to understand and build upon the work"
       ],
       "project_link": "https://github.com/anant00729/Encrypted-FileSystem-Middleware" 
     },
     {
       "title": "Sentiment Analysis for Brand Reputation Management",
       "duration": "January 2023 - March 2023",
-      "stack_used": "Python, Selenium, BERT, Flask, LSTM, Google Chrome APIs",
+      "stack_used": "Python, Selenium, BERT, Flask, LSTM, Google chrome APIs",
       "tasks": [
-      "Implemented data extraction and cleaning processes using Selenium and APIs to gather data from online sources for analysis.",
-      "Developed and trained a LSTM model for sentiment analysis and contributed to the proposal and milestone report for the project.",
-      "Built a Chrome extension that utilizes a Flask API to determine sentiment using BERT model.",
-      "Collaborated with team members to improve the LSTM model's performance and scores, and contributed to the final project report.",
-      "Assisted with the evaluation of the LSTM model and provided insights on the potential applications of the sentiment analysis results for brand reputation management."
+      "Implemented data extraction and cleaning processes using Selenium and APIs to gather data from online sources for analysis",
+      "Developed and trained a LSTM model for sentiment analysis and contributed to the proposal and milestone report for the project",
+      "Built a Chrome extension that utilizes a Flask API to determine sentiment using BERT model",
+      "Collaborated with team members to improve the LSTM model's performance and scores, and contributed to the final project report",
+      "Assisted with the evaluation of the LSTM model and provided insights on the potential applications of the sentiment analysis results for brand reputation management"
       ],
       "project_link": "https://youtu.be/S21145BNi_c"
     },
     {
       "title": "A Computer Vision Pipeline to Match Lost and Found Dogs - Android App",
       "duration": "January 2022 - April 2022",
-      "stack_used": "Torch, Torchvision, Pandas, Beautifulsoup, Selenium, Flask, AWS S3 bucket, Android, RDS, Google Maps API.",
+      "stack_used": "Torch, Torchvision, Pandas, Beautifulsoup, Selenium, Flask, AWS S3 bucket, Android, RDS, Google Maps API",
       "tasks": [
-        "Developed machine learning models to identify lost dog i.e Dog Comparator, the Dog Extractor, and the Dog Classifier.",
-        "Created pipeline to connect all three models, and made sure that the image processing in the ML models, is done in the background using Celery and RabbitMQ.",
-        "Built Android application to retrieve the relevant dog images from the database and used google maps API to show the lost and found dog locations and connected them by plotting polylines.",
-        "Monitored the model results, sent out emails and android notifications to notify users about results."
+        "Developed machine learning models to identify lost dog i.e Dog Comparator, the Dog Extractor, and the Dog Classifier",
+        "Created pipeline to connect all three models, and made sure that the image processing in the ML models, is done in the background using Celery and RabbitMQ",
+        "Built Android application to retrieve the relevant dog images from the database and used google maps API to show the lost and found dog locations and connected them by plotting polylines",
+        "Monitored the model results, sent out emails and android notifications to notify users about results"
       ],
       "project_link": "https://youtu.be/ATgNBqYl3tc"
     },
     {
       "title": "Forest Fire Risk Prediction & Analysis",
       "duration": "September 2021 - December 2021",
-      "stack_used": "PySpark, AWS S3, AWS Redshift, AWS PostgreSQL (RDS), NodeJs, Plotly Dash and Apache Cassandra.",
+      "stack_used": "PySpark, AWS S3, AWS Redshift, AWS PostgreSQL (RDS), NodeJs, Plotly Dash and Apache Cassandra",
       "tasks": [
-        "Mining data from primary and secondary sources, then reorganizing forest data.",
-        "Performed data cleaning and formatting. Finally, used the processed data for visualization.",
-        "Developed statistical dashboard to interpret data sets, paying particular attention to trends and patterns that could be valuable for diagnostic and predictive analytics efforts.",
-        "Prepared report that effectively communicate trends, patterns, and predictions using relevant data.",
-        "The project is build using Dash Python library, the ETL(Extract, Transform, Load) is performed using PySpark tools."
+        "Mining data from primary and secondary sources, then reorganizing forest data",
+        "Performed data cleaning and formatting. Finally, used the processed data for visualization",
+        "Developed statistical dashboard to interpret data sets, paying particular attention to trends and patterns that could be valuable for diagnostic and predictive analytics efforts",
+        "Prepared report that effectively communicate trends, patterns, and predictions using relevant data",
+        "The project is build using Dash Python library, the ETL(Extract, Transform, Load) is performed using PySpark tools"
       ],
       "project_link": "https://youtu.be/cF7k6bHub8o"
     },
@@ -176,11 +176,11 @@
       "duration": "November 2019 - December 2020",
       "stack_used": "Android, Kotlin, Dagger, Component Life Cycle and MVVM pattern",
       "tasks": [
-        "Owned end to end food order flow and developed using latest architecture, design patterns and most importantly write secure and performant code by working closely with the product, UX/UI and backend teams.",
-        "Built reusable libraries, toolkits and developer tools for usage across multiple mobile teams on Qmin.",
-        "Integrated payment gateways such as Paytm, Mobikwik, UPI and ccAvenue.",
+        "Owned end to end food order flow and developed using latest architecture, design patterns and most importantly write secure and performant code by working closely with the product, UX/UI and backend teams",
+        "Built reusable libraries, toolkits and developer tools for usage across multiple mobile teams on Qmin",
+        "Integrated payment gateways such as Paytm, Mobikwik, UPI and ccAvenue",
         "Monitored the performance of the live apps and continuously improve them on both code and user experience level",
-        "Built the user experience from scratch by maintaining 99.5% crash-free and ANR sessions at all times."
+        "Built the user experience from scratch by maintaining 99.5% crash-free and ANR sessions at all times"
       ],
       "project_link": "https://play.google.com/store/apps/details?id=com.tatadigital.qmin&hl=en_CA&gl=US"
     }
@@ -190,50 +190,50 @@
       "title": "The University of British Columbia",
       "designation": "URA – Fullstack Engineer",
       "duration": "May 2022 - Dec 2023",
-      "intro": "As the first developer to integrate the team in the IHCL project, my goal was to create interfaces for our new product utilizing Android framework + MVVM achitecture for state management. The main focus is to create reusable components that could be used in future projects by the team.",
+      "intro": "As the first developer to integrate the team in the IHCL project, my goal was to create interfaces for our new product utilizing Android framework + MVVM achitecture for state management. The main focus is to create reusable components that could be used in future projects by the team",
       "roles": [
-        "As part of my responsibilities, I worked on the sensor module which included collecting data through webhooks and creating data pipelines to streamline the information.",
-        "Designed and built scalable APIs and webhooks to enable data flow from multiple microservices and synchronize it with the centralized database system.",
-        "Integrated sensor data information and data collection with the backend database, improving the application's functionality.",
-        "Created new features and workflows to enhance the application's user experience.",
-        "Executed database migrations with the use of Knex and Objection.js libraries."
+        "As part of my responsibilities, I worked on the sensor module which included collecting data through webhooks and creating data pipelines to streamline the information",
+        "Designed and built scalable APIs and webhooks to enable data flow from multiple microservices and synchronize it with the centralized database system",
+        "Integrated sensor data information and data collection with the backend database, improving the application's functionality",
+        "Created new features and workflows to enhance the application's user experience",
+        "Executed database migrations with the use of Knex and Objection.js libraries"
       ]
     },
     {
       "title": "Tata Digital",
       "designation": "Fullstack Engineer",
       "duration": "December 2019 - August 2021",
-      "intro": "As the first developer to integrate the team in the IHCL project, my goal was to create interfaces for our new product utilizing Android framework + MVVM achitecture for state management. The main focus is to create reusable components that could be used in future projects by the team.",
+      "intro": "As the first developer to integrate the team in the IHCL project, my goal was to create interfaces for our new product utilizing Android framework + MVVM achitecture for state management. The main focus is to create reusable components that could be used in future projects by the team",
       "roles": [
-        "Built the platform for the User Generated Content (UGC) alongside Reviews, the core domain for the organization, by managing resources for multiple parallel tech projects to ensure milestones are met that align with the business goal.",
-        "Used my extensive experience with front-end development to define the structure and components for the project, making sure they are reusable.",
-        "Kept the code quality high by reviewing code from other developers and suggesting improvements.",
-        "Collaborated with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality."
+        "Built the platform for the User Generated Content (UGC) alongside Reviews, the core domain for the organization, by managing resources for multiple parallel tech projects to ensure milestones are met that align with the business goal",
+        "Used my extensive experience with front-end development to define the structure and components for the project, making sure they are reusable",
+        "Kept the code quality high by reviewing code from other developers and suggesting improvements",
+        "Collaborated with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality"
       ]
     },
     {
       "title": "Binary Numbers",
       "designation": "Frontend Lead",
       "duration": "August 2017 - November 2019",
-      "intro": "Binary Numbers is a service-based company specialized in product engineering, web and app development a company offering next-generation solutions for small and large businesses. I worked there on custom websites and apps that increase online visibility and stand out from the crowd.",
+      "intro": "Binary Numbers is a service-based company specialized in product engineering, web and app development a company offering next-generation solutions for small and large businesses. I worked there on custom websites and apps that increase online visibility and stand out from the crowd",
       "roles": [
-        "Handled Different Cinema Projects which has a faster, cleaner, and a tad more personal Ticket booking process, specially designed to make the booking experience better.",
-        "Designed easy-to-use interfaces and enhancement of user experience for the digital platforms of small companies.",
-        "Worked on React + Redux libraries, Flutter and Android frameworks, that included UI creation and customization, custom component development, and training.",
-        "Developed E-commerce platform with NodeJS, and customized preexisting codebase.",
-        "Integrated external services such as payment services, delivery services, etc into NodeJS solutions.",
-        "Led a team of 4 mobile developers, gave support to the clientʼs multi-cultural team, providing feedback, clarifying requirements, and helping with technical questions."
+        "Handled Different Cinema Projects which has a faster, cleaner, and a tad more personal Ticket booking process, specially designed to make the booking experience better",
+        "Designed easy-to-use interfaces and enhancement of user experience for the digital platforms of small companies",
+        "Worked on React + Redux libraries, Flutter and Android frameworks, that included UI creation and customization, custom component development, and training",
+        "Developed E-commerce platform with NodeJS, and customized preexisting codebase",
+        "Integrated external services such as payment services, delivery services, etc into NodeJS solutions",
+        "Led a team of 4 mobile developers, gave support to the clientʼs multi-cultural team, providing feedback, clarifying requirements, and helping with technical questions"
       ]
     },
     {
       "title": "EMEfocus Software Solutions",
       "designation": "Android and NodeJS Developer",
       "duration": "November 2016 - August 2017",
-      "intro": "Emefocus is a service-based start-located in Bangalore. They focus on digitalizing the admission process of various universities. I worked as an android developer and also got a chance to work on the backend. My job here is to work inside our client to develop great digital solutions for the education sector ande-commerce.",
+      "intro": "Emefocus is a service-based start-located in Bangalore. They focus on digitalizing the admission process of various universities. I worked as an android developer and also got a chance to work on the backend. My job here is to work inside our client to develop great digital solutions for the education sector ande-commerce",
       "roles": [
-        "Developed web/android applications based on Android Native and React frontend frameworks.",
-        "Kept the Project Manager and the IT Leads updated on the overall progress of the projects and manage the tasks distributed to the team.",
-        "Maintained the code and the features implemented by the other developers in accordance with the requirements."
+        "Developed web/android applications based on Android Native and React frontend frameworks",
+        "Kept the Project Manager and the IT Leads updated on the overall progress of the projects and manage the tasks distributed to the team",
+        "Maintained the code and the features implemented by the other developers in accordance with the requirements"
       ]
     }
   ],
@@ -242,7 +242,7 @@
       "title": "Professional Master of Science in Computer Science, Big Data",
       "duration": "September-2021 - Present",
       "name_of_uni": "Simon Fraser University, Burnaby, Canada",
-      "courses": "Courses (ongoing): Machine Learning, Big Data Lab 1"
+      "courses": "Courses: Machine Learning, NLP, Big Data Lab 1/2, Secure Software Design, Distributed and Parallel computing"
     },
     {
       "title": "Bachlors of Computer Science",
@@ -256,15 +256,15 @@
       "title": "Binary Numbers",
       "designation": "Front-end lead",
       "duration": "August 2017 - November 2019",
-      "intro": "Binary Numbers is a service-based company specialized in product engineering, web and app development a company offering next-generation solutions for small and large businesses. I worked there on custom websites and apps that increase online visibility and stand out from the crowd.",
+      "intro": "Binary Numbers is a service-based company specialized in product engineering, web and app development a company offering next-generation solutions for small and large businesses. I worked there on custom websites and apps that increase online visibility and stand out from the crowd",
       "roles": [
-        "Android/Flutter application development.",
-        "Designeasyuser interfaces and great user experiences for the digital platforms of small companies.",
-        "React web application development, including UI creation and customization, custom component development, and training.",
-        "E-commerce development with NodeJS, customizing preexisting codebase.",
-        "Integrate external services such as payment services, delivery, etc into NodeJS solutions.",
-        "Lead a team of 4 mobile developers, giving support to the clientʼsmulti-cultural team, providing feedback, clarifying requirements, and helping with technical questions.",
-        "Product development using NodeJS (ExpressJS and Next.JS), integration with AWS and external financial tools."
+        "Android/Flutter application development",
+        "Designeasyuser interfaces and great user experiences for the digital platforms of small companies",
+        "React web application development, including UI creation and customization, custom component development, and training",
+        "E-commerce development with NodeJS, customizing preexisting codebase",
+        "Integrate external services such as payment services, delivery, etc into NodeJS solutions",
+        "Lead a team of 4 mobile developers, giving support to the clientʼsmulti-cultural team, providing feedback, clarifying requirements, and helping with technical questions",
+        "Product development using NodeJS (ExpressJS and Next.JS), integration with AWS and external financial tools"
       ]
     }
   ],
