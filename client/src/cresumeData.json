@@ -136,7 +136,7 @@
     {
       "title": "Sentiment Analysis for Brand Reputation Management",
       "duration": "January 2023 - March 2023",
-      "stack_used": "Python, Selenium, BERT, Flask, LSTM",
+      "stack_used": "Python, Selenium, BERT, Flask, LSTM, Google Chrome APIs",
       "tasks": [
       "Implemented data extraction and cleaning processes using Selenium and APIs to gather data from online sources for analysis.",
       "Developed and trained a LSTM model for sentiment analysis and contributed to the proposal and milestone report for the project.",
