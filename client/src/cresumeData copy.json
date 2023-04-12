@@ -1,0 +1,280 @@
+{
+  "primary_color": "#4f90ca",
+  "secondary_color": "#6a6f85#",
+  "name": "Sunil Kumar Awasthy",
+  "designation": "Executive Engineer",
+  "about": "I have been working with PWA/Web development since 2018, the period during which I have worked in different projects. I am a self-motivated and self-taught professional who likes to solve problems. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL.",
+  "aboutList": [
+    "I am currently posted in Madhya Pradesh Bhawan Chanakyapuri, New Delhi as Sr. Executive Engineer.",
+    "With 35+ years of experience working as a govenment empolyee for Madhya Pradesh Government.",
+    "I carry experience in project management and design skills to improve quality, cost and time metrics for Civil Engineering.",
+    "I have strong background knowlege of Survey, Estimation, Structural Design, Tendering, Detailed Project Preparation, Report Work, etc."
+  ],
+  "email": "skawasthy1963@gmail.com",
+  "phone": "+91 9082319073",
+  "linkedin": "Madhya Pradesh Bhawan, Chanakyapuri, New Delhi",
+  "githubLink": "https://www.linkedin.com/in/sunil-kumar-awasthy-9a684015/",
+  "address": "113 Bhagirathi Apartments, B Sector Noida Sector 62, NOIDA ( U.P.)201309",
+  "profile_image": "https://i.imgur.com/Il4saXn.png",
+  "education": [
+    {
+      "education_from": "Embassy Of India School",
+      "education_in": [
+        {
+          "class_title": "10th CBSE",
+          "duration": "April 2009 - March 2010",
+          "result": "78.94%"
+        }
+      ]
+    },
+    {
+      "education_from": "Kendriya Vidyalaya No. 1, Colaba",
+      "education_in": [
+        {
+          "class_title": "12th CBSE",
+          "duration": "April 2011 - March 2012",
+          "result": "73.56%"
+        }
+      ]
+    },
+    {
+      "education_from": "Mahatma Gandhi Mission's College of Engineering and Technology",
+      "education_in": [
+        {
+          "class_title": "Bachelor of engineering in Computer Science",
+          "duration": "July 2012 - June 2016",
+          "result": "7.84 GPA"
+        }
+      ]
+    }
+  ],
+  "technical_skills": [
+    {
+      "name": "Civil Works",
+      "type": [
+        "Survey",
+        "Estimation",
+        "Structural Design",
+        "Tendering",
+        "Detailed Project Preparation",
+        "Report Work, etc."  
+      ]
+    }
+  ],
+  "areas_of_expertise": [
+    "ReactJS",
+    "Redux",
+    "Javascript",
+    "ES6",
+    "HTML5/CSS",
+    "Bootstrap",
+    "Tailwind",
+    "Styled Components",
+    "NodeJS",
+    "ExpressJS",
+    "MySQL",
+    "Postgres",
+    "MongoDB",
+    "Git",
+    "Postman",
+    "pgAdmin",
+    "RESTful APIs"
+  ],
+  "selected_projects": [
+    {
+      "title": "Posted in Madhya Pradesh Bhawan, Chanakyapuri New Delhi",
+      "duration": "Year 2021- present",
+      "stack_used": "General Administration Department of M.P.Govt",
+      "tasks": [
+        "At Present, I am doing construction work of New M.P.Bhawan, New Delhi cost Rs 150 Cr Govt Guest House is almost completed by NBCC New Delhi. The work of monitoring other allied works.",
+        "I am working on the maintenance & operation work of old M.P.Bhawan, Madhyanchal Bhawan & Various other buildings of M.P. Govt."
+      ],
+      "project_link": ""
+    },
+    {
+      "title": "Posted in head of the Department, Bhopal",
+      "duration": "Year 2016 - 2021",
+      "stack_used": "Engineer-in-Chief office, Satpura Bhawan Bhopal, Madhya pradesh",
+      "tasks": [
+        "I had carried out administrative & registration work of Govt contractors."
+      ],
+      "project_link": ""
+    },
+    {
+      "title": "Construction of Madhyalok Bhawan at Vashi Navi Mumbai, Maharashtra",
+      "duration": "Year 2013 - 2016",
+      "stack_used": "M.P. Road Development Corporation as Project Manager",
+      "tasks": [
+        "Project was funded by MP Government. The construction was cost Rs 75 Cr."
+      ],
+      "project_link": ""
+    },
+    {
+      "title": "School Construction",
+      "duration": "Year 2010 - 2013",
+      "stack_used": "PIU Madhya Pradesh PWD",
+      "tasks": [
+        "Construction of various schools, Hostel, Hospital and other various buildings in Raisen & Bhopal districts as project Engineer."
+      ],
+      "project_link": ""
+    },
+    {
+      "title": "Posted in head of the Department, Bhopal",
+      "duration": "Year 2004 - 2010",
+      "stack_used": "Madhya Pradesh PWD",
+      "tasks": [
+        "I had carried out administrative and monitoring work under Nabard scheme,CRF Scheme &  Other Budgeted works for village roads in Madhya pradesh at Engineer - in - Chief  office , Satpura Bhawan Bhopal."
+      ],
+      "project_link": ""
+    },
+    {
+      "title": "Construction of various village roads",
+      "duration": "Year 2001 - 2004",
+      "stack_used": "Rural Road Development Authority Department - Deputation",
+      "tasks": [
+        "The project cost was Rs 5 Cr under PMGSY scheme at Jhabua District in M.P. It was funded by the Central Govt in M.P."
+      ],
+      "project_link": ""
+    },
+    {
+      "title": "Maintenance work",
+      "duration": "Year 1998 - 2001",
+      "stack_used": "Madhya Pradesh PWD",
+      "tasks": [
+        "Govt.Hamidia Hospital",
+        "Gandhi Medical college Bhopal"
+      ],
+      "project_link": ""
+    },
+    {
+      "title": "Library building of Women Polytechnic Bhopal",
+      "duration": "Year 1993 - 1998",
+      "stack_used": "Madhya Pradesh PWD",
+      "tasks": [
+        "Project was funded by World Bank. The construction was cost Rs 3 Cr. and Other various construction work of Govt. buildings."
+      ],
+      "project_link": ""
+    },
+    {
+      "title": "Construction work of Extension work of Govt. S.V Polytechnic",
+      "duration": "Year 1993 - 1998",
+      "stack_used": "Madhya Pradesh PWD for Govt. Polytechnic Bhopal",
+      "tasks": [
+        "Construction work of Extension work of Govt. S.V Polytechnic, Bhopal and Library building of women's Polytechnic Bhopal",
+        "Project was funded by world bank. The constrction cost was Rs. 450 Cr.",
+        "Other various building at Bhopal like contruction work at ITI J.P. Hospital."
+      ],
+      "project_link": ""
+    },
+    {
+      "title": "Rajeev Gandhi Technical University at Bhopal",
+      "duration": "Year 1985 - 1993",
+      "stack_used": "Madhya Pradesh PWD",
+      "tasks": [
+        "The construction cost of the project was Rs. 8.89 Cr."
+      ],
+      "project_link": ""
+    },
+    {
+      "title": "Construction of New Central Jail at Bhopal",
+      "duration": "Year 1985 - 1993",
+      "stack_used": "Madhya Pradesh PWD",
+      "tasks": [
+        "The construction cost of the project was Rs. 14 Cr."
+      ],
+      "project_link": ""
+    }
+  ],
+  "technical_exp": [
+    {
+      "title": "Madhya Pradesh PWD",
+      "designation": "Executive Engineer - Posted in Madhya Pradesh Bhawan Chanakyapuri, New Delhi.",
+      "duration": "Jan 1985 - Present",
+      "intro": "As the first developer to integrate the team in the IHCL project, my goal was to create interfaces for our new product utilizing Android framework + MVVM achitecture for state management. The main focus is to create reusable components that could be used in future projects by the team.",
+      "roles": []
+    }
+  ],
+  "educations": [
+    {
+      "title": "Awadhesh Pratap Singh University - B.E. in Civil Engineering",
+      "duration": "Year 1984",
+      "name_of_uni": "",
+      "courses": "Secured 75%"
+    },
+    {
+      "title": "Board of secondary Education M.P.Bhopal",
+      "duration": "Year 1979",
+      "name_of_uni": "",
+      "courses": "Secured 68%"
+    }
+  ],
+  "hackathon": [
+    {
+      "title": "Binary Numbers",
+      "designation": "Front-end lead",
+      "duration": "August 2017 - November 2019",
+      "intro": "Binary Numbers is a service-based company specialized in product engineering, web and app development a company offering next-generation solutions for small and large businesses. I worked there on custom websites and apps that increase online visibility and stand out from the crowd.",
+      "roles": [
+        "Android/Flutter application development.",
+        "Designeasyuser interfaces and great user experiences for the digital platforms of small companies.",
+        "React web application development, including UI creation and customization, custom component development, and training.",
+        "E-commerce development with NodeJS, customizing preexisting codebase.",
+        "Integrate external services such as payment services, delivery, etc into NodeJS solutions.",
+        "Lead a team of 4 mobile developers, giving support to the clientʼsmulti-cultural team, providing feedback, clarifying requirements, and helping with technical questions.",
+        "Product development using NodeJS (ExpressJS and Next.JS), integration with AWS and external financial tools."
+      ]
+    }
+  ],
+  "certificates_and_acc": [
+    {
+      "title": "Awarded for Special Services in Ujjain Simhastha Kumbh by Madhya Pradesh Government.",
+      "duration": "2017"
+    }
+  ],
+  "languages": [
+    {
+      "title": "Hindi",
+      "state": "Mother tongue"
+    },
+    {
+      "title": "English",
+      "state": "Fluent"
+    },
+    {
+      "title": "Russian",
+      "state": "Beginner"
+    }
+  ],
+  "skills": [
+    {
+      "title": "ReactJS",
+      "years": "2.5 years",
+      "rating": [1, 1, 1, 1, 0]
+    },
+    {
+      "title": "HTML5/CSS",
+      "years": "3 years",
+      "rating": [1, 1, 1, 1, 0]
+    },
+    {
+      "title": "NodeJS",
+      "years": "3 years",
+      "rating": [1, 1, 1, 0, 0]
+    },
+    {
+      "title": "AWS",
+      "years": "2 years",
+      "rating": [1, 1, 0, 0, 0]
+    },
+    {
+      "title": "Django",
+      "years": "1 year",
+      "rating": [1, 1, 1, 0, 0]
+    },
+    {
+      "title": "Git",
+      "years": "1 year",
+      "rating": [1, 1, 1, 1, 0]
+    }
+  ]
+}

@@ -75,6 +75,20 @@ function CResume() {
           children={<Certificates />}
           name={"Certificates"}
         />
+        <div
+          style={{
+            borderTop: `3px solid ${primary_color}`,
+            marginTop: "16px",
+          }}
+        ></div>
+        <div 
+          style={{
+            marginTop: "8px",
+          }}
+        >
+          Authored a Medium article titled <a href="https://medium.com/sfu-cspmp/rapids-the-future-of-gpu-data-science-9e0524563019">RAPIDS: The Future of GPU Data Science?</a> in February 2022, exploring the potential of RAPIDS for GPU data science.
+           
+        </div>
       </MainContainer>
     </page>
   );
