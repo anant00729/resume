@@ -5,7 +5,7 @@
   "designation": "MS CS (Big Data) at SFU '23",
   "about": "I have been working with PWA/Web development since 2018, the period during which I have worked in different projects. I am a self-motivated and self-taught professional who likes to solve problems. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL",
   "aboutList": [
-    "5+ years of experience in Software development & Data Analytics",
+    "5+ years of experience in Software development",
     "Strong programming background with project experience in Front-end and Back-end development",
     "Learning data science and machine learning",
     "Experience in developing analytical tools and techniques for data analysis and processing big data"
@@ -68,34 +68,14 @@
     {
       "name": "Framworks and Tools",
       "type": [
-        "Android",
-        "iOS",
-        "Flutter",
         "ReactJS",
         "NodeJS",
         "MySQL",
         "PySpark",
-        "Cassandra"
-      ]
-    },
-    {
-      "name": "Libraries/ Technologies (Currently learning)",
-      "type": [
-        "scikit-learn",
-        "Pandas",
-        "NumPy",
-        "SciPy",
-        "Plotly",
-        "Keras",
-        "PyTorch",
-        "Apache Spark",
-        "Hadoop",
-        "MapReduce",
-        "Kafka",
-        "YARM",
-        "AWS S#",
-        "AWS EC2",
-        "AWS EMR"
+        "Cassandra",
+        "Android",
+        "iOS",
+        "Flutter"
       ]
     }
   ],
@@ -120,40 +100,25 @@
   ],
   "selected_projects": [
     {
-      "title": "Encrypted Secure File System Middleware",
-      "duration": "January 2023 - March 2023",
-      "stack_used": "C++, cmake, Docker",
+      "title": "LiteFarm Web Application",
+      "duration": "May 2022 - December 2022",
+      "stack_used": "NodeJS, KnexJs, Postgres, React, Redux, Redux-tools, ObjectionJS, redux-persist, redux-saga, recharts",
       "tasks": [
-      "Implemented AES and RSA encryption techniques to secure data in an encrypted file system",
-      "Developed a middleware in C++ to enable access to the encrypted file system on a need-to-access basis",
-      "Collaborated with team members to ensure that all functional requirements were met, including support for multiple users with personalized and shared directories, file and directory operations (e.g., cd, pwd, ls, cat, share, mkdir, mkfile), and admin-specific features (e.g., adduser)",
-      "Collaborated with team members to identify and fix software bugs and vulnerabilities",
-      "Conducted thorough testing and debugging to identify and fix vulnerabilities and issues in the encrypted file system, ensuring that users' data and privacy were protected",
-      "Documented the project's design, implementation, and testing procedures in detail, making it easy for others to understand and build upon the work"
+        "Developed a scalable and reusable API for the frontend of the sensor module. This involved collecting data through webhooks and implementing efficient data pipelines to optimize the flow of information",
+        "Integrated the collection of sensor data and its associated information with the backend database, resulting in enhanced functionality for the application",
+        "Developed and implemented fresh features and workflows to elevate the user experience of the application",
+        "Performed database migrations using the KnexJs and ObjectionJs libraries"
       ],
-      "project_link": "https://github.com/anant00729/Encrypted-FileSystem-Middleware" 
+      "project_link": "https://app.litefarm.org/"
     },
     {
-      "title": "Sentiment Analysis for Brand Reputation Management",
-      "duration": "January 2023 - March 2023",
-      "stack_used": "Python, Selenium, BERT, Flask, LSTM, Google chrome APIs",
-      "tasks": [
-      "Implemented data extraction and cleaning processes using Selenium and APIs to gather data from online sources for analysis",
-      "Developed and trained a LSTM model for sentiment analysis and contributed to the proposal and milestone report for the project",
-      "Built a Chrome extension that utilizes a Flask API to determine sentiment using BERT model",
-      "Collaborated with team members to improve the LSTM model's performance and scores, and contributed to the final project report",
-      "Assisted with the evaluation of the LSTM model and provided insights on the potential applications of the sentiment analysis results for brand reputation management"
-      ],
-      "project_link": "https://youtu.be/S21145BNi_c"
-    },
-    {
-      "title": "A Computer Vision Pipeline to Match Lost and Found Dogs - Android App",
+      "title": "A Computer Vision Pipeline to Match Lost and Found Dogs - React Native App",
       "duration": "January 2022 - April 2022",
-      "stack_used": "Torch, Torchvision, Pandas, Beautifulsoup, Selenium, Flask, AWS S3 bucket, Android, RDS, Google Maps API",
+      "stack_used": "Torch, Torchvision, Pandas, Beautifulsoup, Selenium, Flask, AWS S3 bucket, React, Redux, Google Maps API",
       "tasks": [
         "Developed machine learning models to identify lost dog i.e Dog Comparator, the Dog Extractor, and the Dog Classifier",
         "Created pipeline to connect all three models, and made sure that the image processing in the ML models, is done in the background using Celery and RabbitMQ",
-        "Built Android application to retrieve the relevant dog images from the database and used google maps API to show the lost and found dog locations and connected them by plotting polylines",
+        "Built React Native application to retrieve the relevant dog images from the database and used google maps API to show the lost and found dog locations and connected them by plotting polylines",
         "Monitored the model results, sent out emails and android notifications to notify users about results"
       ],
       "project_link": "https://youtu.be/ATgNBqYl3tc"
@@ -161,7 +126,7 @@
     {
       "title": "Forest Fire Risk Prediction & Analysis",
       "duration": "September 2021 - December 2021",
-      "stack_used": "PySpark, AWS S3, AWS Redshift, AWS PostgreSQL (RDS), NodeJs, Plotly Dash and Apache Cassandra",
+      "stack_used": "NodeJs, PySpark, AWS S3, AWS Redshift, AWS PostgreSQL (RDS), Plotly Dash and Apache Cassandra",
       "tasks": [
         "Mining data from primary and secondary sources, then reorganizing forest data",
         "Performed data cleaning and formatting. Finally, used the processed data for visualization",
@@ -271,7 +236,7 @@
       "title": "Bachlors of Computer Science",
       "duration": "September-2012 - 2016",
       "name_of_uni": "University of Mumbai, India",
-      "courses": "Software Engineering, Programming, Data structures and algorithms, Database management system"
+      "courses": "Courses: Software Engineering, Programming, Data structures and algorithms, Database management system"
     }
   ],
   "hackathon": [
