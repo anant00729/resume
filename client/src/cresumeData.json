@@ -2,15 +2,15 @@
   "primary_color": "#4f90ca",
   "secondary_color": "#6a6f85#",
   "name": "Anant Sunilam Awasthy",
-  "designation": "MS CS (Big Data) at SFU '23",
+  "designation": "MS CS (Big Data) at Simon Fraser University",
   "about": "I have been working with PWA/Web development since 2018, the period during which I have worked in different projects. I am a self-motivated and self-taught professional who likes to solve problems. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL",
   "aboutList": [
     "5+ years of experience in Software development",
     "Strong programming background with project experience in Front-end and Back-end development",
-    "Learning data science and machine learning",
+    "Expertise in data science and machine learning",
     "Experience in developing analytical tools and techniques for data analysis and processing big data"
   ],
-  "email": "anant_awasthy@sfu.ca",
+  "email": "anant.awasthy29@gmail.com",
   "phone": "+1 604-657-6012",
   "linkedin": "https://www.linkedin.com/in/anant-s-awasthy-230119134",
   "githubLink": "https://github.com/anant00729",
@@ -68,14 +68,21 @@
     {
       "name": "Framworks and Tools",
       "type": [
+        "Java Apache Spark",
+        "RapidMiner",
+        "Java",
+        "Spring MVC4",
+        "Spring AOP4",
+        "Hibernate4",
+        "Oracle",
+        "SQL language",
+        "Jquery",
+        "JSP",
         "ReactJS",
         "NodeJS",
         "MySQL",
         "PySpark",
-        "Cassandra",
-        "Android",
-        "iOS",
-        "Flutter"
+        "Cassandra"
       ]
     }
   ],
@@ -102,7 +109,7 @@
     {
       "title": "LiteFarm Web Application",
       "duration": "May 2022 - December 2022",
-      "stack_used": "NodeJS, KnexJs, Postgres, React, Redux, Redux-tools, ObjectionJS, redux-persist, redux-saga, recharts",
+      "stack_used": "Java 1.8, Spring MVC4, Spring AOP4, Hibernate4, Oracle, SQL language, Jquery, JSP, React, Redux, Redux-tools, ObjectionJS, redux-persist, redux-saga, recharts",
       "tasks": [
         "Developed a scalable and reusable API for the frontend of the sensor module. This involved collecting data through webhooks and implementing efficient data pipelines to optimize the flow of information",
         "Integrated the collection of sensor data and its associated information with the backend database, resulting in enhanced functionality for the application",
@@ -112,21 +119,9 @@
       "project_link": "https://app.litefarm.org/"
     },
     {
-      "title": "A Computer Vision Pipeline to Match Lost and Found Dogs - React Native App",
-      "duration": "January 2022 - April 2022",
-      "stack_used": "Torch, Torchvision, Pandas, Beautifulsoup, Selenium, Flask, AWS S3 bucket, React, Redux, Google Maps API",
-      "tasks": [
-        "Developed machine learning models to identify lost dog i.e Dog Comparator, the Dog Extractor, and the Dog Classifier",
-        "Created pipeline to connect all three models, and made sure that the image processing in the ML models, is done in the background using Celery and RabbitMQ",
-        "Built React Native application to retrieve the relevant dog images from the database and used google maps API to show the lost and found dog locations and connected them by plotting polylines",
-        "Monitored the model results, sent out emails and android notifications to notify users about results"
-      ],
-      "project_link": "https://youtu.be/ATgNBqYl3tc"
-    },
-    {
       "title": "Forest Fire Risk Prediction & Analysis",
       "duration": "September 2021 - December 2021",
-      "stack_used": "NodeJs, PySpark, AWS S3, AWS Redshift, AWS PostgreSQL (RDS), Plotly Dash and Apache Cassandra",
+      "stack_used": "Spring boot, Spring MVC4, Spring AOP4, Hibernate4, PySpark, AWS S3, AWS Redshift, AWS PostgreSQL (RDS), Plotly Dash and Apache Cassandra",
       "tasks": [
         "Mining data from primary and secondary sources, then reorganizing forest data",
         "Performed data cleaning and formatting. Finally, used the processed data for visualization",
@@ -139,7 +134,7 @@
     {
       "title": "Tata motors",
       "duration": "December 2020 - August 2021",
-      "stack_used": "React, Redux, React Hooks and 3D Model Unity Libraries",
+      "stack_used": "Java, Spring MVC4, Spring AOP4, Hibernate4, React, Redux, React Hooks and 3D Model Unity Libraries",
       "tasks": [
         "Collaborated with the augmented reality team and helped online customers in their purchasing decisions by bringing vehicles to life, taking digital imagery to the next level with realistic, life-sized 3D models that can be positioned in the real world and explored in detail",
         "Developed frontend chatbot that workes with RESTful APIs and provides useful insights and solves enquiries related to car purchase",
@@ -150,7 +145,7 @@
     {
       "title": "Qmin",
       "duration": "November 2019 - December 2020",
-      "stack_used": "Android, Kotlin, Dagger, Component Life Cycle and MVVM pattern",
+      "stack_used": "Android, Java, Kotlin, Dagger, Component Life Cycle and MVVM pattern",
       "tasks": [
         "Owned end to end food order flow and developed using latest architecture, design patterns and most importantly write secure and performant code by working closely with the product, UX/UI and backend teams",
         "Built reusable libraries, toolkits and developer tools for usage across multiple mobile teams on Qmin",
@@ -159,18 +154,6 @@
         "Built the user experience from scratch by maintaining 99.5% crash-free and ANR sessions at all times"
       ],
       "project_link": "https://play.google.com/store/apps/details?id=com.tatadigital.qmin&hl=en_CA&gl=US"
-    },
-    {
-      "title": "Empire Cinemas",
-      "duration": "April 2018 - September 2019",
-      "stack_used": "Flutter, Provider Pattern, NodeJS and Postgres",
-      "tasks": [
-        "Developed backend logic in NodeJs to implement syncing of cinema schedules and movies",
-        "Worked on customer-facing application to build reusable components and scalable app for users using Flutter framework",
-        "Created custom seat layout of cinemas and implemented seat selection logic",
-        "Improved operations processes for user inquiries, solving 50+ customer feedback and issues after the first release of the application"
-      ],
-      "project_link": "https://ksa.empirecinemas.com/"
     }
   ],
   "technical_exp": [
@@ -266,7 +249,7 @@
       "duration": "2022"
     },
     {
-      "title": "Android Certified Programmer, Monster India",
+      "title": "Java Android Certified Programmer, Monster India",
       "duration": "2016"
     }
   ],
