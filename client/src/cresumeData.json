@@ -52,11 +52,9 @@
     {
       "name": "Programming/ Scripting Languages",
       "type": [
+        "C#",
         "Python",
         "Java",
-        "Kotlin",
-        "Swift",
-        "Dart",
         "C",
         "C++",
         "Javascript",
@@ -68,16 +66,11 @@
     {
       "name": "Framworks and Tools",
       "type": [
-        "Java Apache Spark",
-        "RapidMiner",
-        "Java",
-        "Spring MVC4",
-        "Spring AOP4",
-        "Hibernate4",
-        "Oracle",
-        "SQL language",
-        "Jquery",
-        "JSP",
+        "C#",
+        ".NET Core",
+        "ASP.NET MVC",
+        "Entity Framework Core",
+        "PostgreSQL",
         "ReactJS",
         "NodeJS",
         "MySQL",
@@ -109,7 +102,7 @@
     {
       "title": "LiteFarm Web Application",
       "duration": "May 2022 - December 2022",
-      "stack_used": "Java 1.8, Spring MVC4, Spring AOP4, Hibernate4, Oracle, SQL language, Jquery, JSP, React, Redux, Redux-tools, ObjectionJS, redux-persist, redux-saga, recharts",
+      "stack_used": "C#, .NET Core, ASP.NET MVC, Entity Framework Core, PostgreSQL, Jquery, JSP, React, Redux, recharts",
       "tasks": [
         "Developed a scalable and reusable API for the frontend of the sensor module. This involved collecting data through webhooks and implementing efficient data pipelines to optimize the flow of information",
         "Integrated the collection of sensor data and its associated information with the backend database, resulting in enhanced functionality for the application",
@@ -121,7 +114,7 @@
     {
       "title": "Forest Fire Risk Prediction & Analysis",
       "duration": "September 2021 - December 2021",
-      "stack_used": "Spring boot, Spring MVC4, Spring AOP4, Hibernate4, PySpark, AWS S3, AWS Redshift, AWS PostgreSQL (RDS), Plotly Dash and Apache Cassandra",
+      "stack_used": "C#, .NET Core, ASP.NET MVC, Entity Framework Core, PySpark, AWS S3, AWS Redshift, AWS PostgreSQL",
       "tasks": [
         "Mining data from primary and secondary sources, then reorganizing forest data",
         "Performed data cleaning and formatting. Finally, used the processed data for visualization",
@@ -134,7 +127,7 @@
     {
       "title": "Tata motors",
       "duration": "December 2020 - August 2021",
-      "stack_used": "Java, Spring MVC4, Spring AOP4, Hibernate4, React, Redux, React Hooks and 3D Model Unity Libraries",
+      "stack_used": "C#, .NET Core, ASP.NET MVC, PostgreSQL React, Redux, React Hooks and 3D Model Unity Libraries",
       "tasks": [
         "Collaborated with the augmented reality team and helped online customers in their purchasing decisions by bringing vehicles to life, taking digital imagery to the next level with realistic, life-sized 3D models that can be positioned in the real world and explored in detail",
         "Developed frontend chatbot that workes with RESTful APIs and provides useful insights and solves enquiries related to car purchase",
@@ -191,14 +184,14 @@
         "Handled Different Cinema Projects which has a faster, cleaner, and a tad more personal Ticket booking process, specially designed to make the booking experience better",
         "Designed easy-to-use interfaces and enhancement of user experience for the digital platforms of small companies",
         "Worked on React + Redux libraries, Flutter and Android frameworks, that included UI creation and customization, custom component development, and training",
-        "Developed E-commerce platform with NodeJS, and customized preexisting codebase",
-        "Integrated external services such as payment services, delivery services, etc into NodeJS solutions",
+        "Developed E-commerce platform with .Net Core, and customized preexisting codebase",
+        "Integrated external services such as payment services, delivery services, etc into .Net Core solutions",
         "Led a team of 4 mobile developers, gave support to the clientʼs multi-cultural team, providing feedback, clarifying requirements, and helping with technical questions"
       ]
     },
     {
       "title": "EMEfocus Software Solutions",
-      "designation": "Android and NodeJS Developer",
+      "designation": "Android and .Net Developer",
       "duration": "November 2016 - August 2017",
       "intro": "Emefocus is a service-based start-located in Bangalore. They focus on digitalizing the admission process of various universities. I worked as an android developer and also got a chance to work on the backend. My job here is to work inside our client to develop great digital solutions for the education sector ande-commerce",
       "roles": [
@@ -232,10 +225,10 @@
         "Android/Flutter application development",
         "Designeasyuser interfaces and great user experiences for the digital platforms of small companies",
         "React web application development, including UI creation and customization, custom component development, and training",
-        "E-commerce development with NodeJS, customizing preexisting codebase",
-        "Integrate external services such as payment services, delivery, etc into NodeJS solutions",
+        "E-commerce development with .Net Core, customizing preexisting codebase",
+        "Integrate external services such as payment services, delivery, etc into .Net Core solutions",
         "Lead a team of 4 mobile developers, giving support to the clientʼsmulti-cultural team, providing feedback, clarifying requirements, and helping with technical questions",
-        "Product development using NodeJS (ExpressJS and Next.JS), integration with AWS and external financial tools"
+        "Product development using .Net Core, integration with AWS and external financial tools"
       ]
     }
   ],
