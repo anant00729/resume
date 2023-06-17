@@ -2,7 +2,7 @@
   "primary_color": "#4f90ca",
   "secondary_color": "#6a6f85#",
   "name": "Anant Sunilam Awasthy",
-  "designation": "MS CS (Big Data) at SFU '23",
+  "designation": "MS CS (Big Data) at Simon Fraser University",
   "about": "I have been working with PWA/Web development since 2018, the period during which I have worked in different projects. I am a self-motivated and self-taught professional who likes to solve problems. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as ReactJS, NodeJS, ExpressJS, Django, MySQL, PostgreSQL",
   "aboutList": [
     "5+ years of experience in Software development",
@@ -10,7 +10,7 @@
     "Learning data science and machine learning",
     "Experience in developing analytical tools and techniques for data analysis and processing big data"
   ],
-  "email": "anant_awasthy@sfu.ca",
+  "email": "anant.awasthy29@gmail.com",
   "phone": "+1 604-657-6012",
   "linkedin": "https://www.linkedin.com/in/anant-s-awasthy-230119134",
   "githubLink": "https://github.com/anant00729",
@@ -69,6 +69,8 @@
       "name": "Framworks and Tools",
       "type": [
         "ReactJS",
+        "VueJS",
+        "NextJS",
         "NodeJS",
         "MySQL",
         "PySpark",
@@ -81,6 +83,7 @@
   ],
   "areas_of_expertise": [
     "ReactJS",
+    "VueJS",
     "Redux",
     "Javascript",
     "ES6",
@@ -228,13 +231,13 @@
   "educations": [
     {
       "title": "Professional Master of Science in Computer Science, Big Data",
-      "duration": "September-2021 - Present",
+      "duration": "September 2021 - May 2023",
       "name_of_uni": "Simon Fraser University, Burnaby, Canada",
       "courses": "Courses: Machine Learning, NLP, Big Data Lab 1/2, Secure Software Design, Distributed and Parallel computing"
     },
     {
       "title": "Bachlors of Computer Science",
-      "duration": "September-2012 - 2016",
+      "duration": "September 2012 - May 2016",
       "name_of_uni": "University of Mumbai, India",
       "courses": "Courses: Software Engineering, Programming, Data structures and algorithms, Database management system"
     }
